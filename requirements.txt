@@ -1,0 +1,7 @@
+transformers
+huggingface-hub
+flask
+joblib
+gradio
+numpy
+scikit-learn
